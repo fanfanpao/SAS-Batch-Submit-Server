@@ -1,0 +1,2 @@
+18-04-22 13:39:32 sastest:/home/Users/sastest> sas.exe -noterminal -sysin /home/Users/sastest/test.sas -log test.log -print test.lst
+18-04-22 13:40:54 sastest:/home/Users/sastest> sas.exe -noterminal -sysin /home/Users/sastest/test.sas -log test.log -print test.lst
